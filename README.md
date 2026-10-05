@@ -29,8 +29,8 @@ Explore data to inform modeling, including understand random variables and distr
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Slides | Slide Deck | [Link](./EDA - EDA for Modelling.pdf) |
-| Lesson | Starter Code | [Link](./EDA_for_modelling_student_notebook.ipynb)||
+| Slides | Slide Deck | [Link](https://github.com/ga-curriculum/eda-for-modeling){:target="_blank"} |
+| Lesson | Starter Code | [Link](https://github.com/ga-curriculum/eda-for-modeling){:target="_blank"}||
 
 ## Prerequisites
 - Write and run Python code in a Jupyter notebook.
