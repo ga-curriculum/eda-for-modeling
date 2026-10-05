@@ -22,8 +22,8 @@ Explore data to inform modeling, including understand random variables and distr
 
 | Topic | About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides/)| Explanation of EDA for Modeling |
-| [02 EDA for Modeling notebook](./02-eda-for-modeling/) | Guided walkthrough of EDA methods for modelling and machine learning; Random variables; Variable distributions and modelling approaches; Correlation as a measure of linear relationship; Standardising data; and Correlation vs Causation |
+| [Full Lesson Deck](https://github.com/ga-curriculum/eda-for-modeling/blob/main/01-slides/EDA-for-Modeling.pdf){:target="_blank"}| Explanation of EDA for Modeling |
+| [02 EDA for Modeling notebook](https://github.com/ga-curriculum/eda-for-modeling/tree/main/02-eda-for-modeling){:target="_blank"} | Guided walkthrough of EDA methods for modelling and machine learning; Random variables; Variable distributions and modelling approaches; Correlation as a measure of linear relationship; Standardising data; and Correlation vs Causation |
 
 ## Materials We Provide
 
